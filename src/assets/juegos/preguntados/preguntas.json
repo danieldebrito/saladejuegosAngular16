@@ -1,0 +1,1762 @@
+{
+  "1": {
+    "question": "EN EL LENGUAJE DE CHAT, ¿CUÁL DE ESTAS OPCIONES SUELE SIGNIFICAR 'REÍRSE A CARCAJADAS'?",
+    "options": {
+      "1": "LOL",
+      "2": "ROFL",
+      "3": "LMAO",
+      "4": "HAHA"
+    },
+    "answer": "3"
+  },
+  "2": {
+    "question": "¿QUÉ PRESIDENTE ARGENTINO DIJO LA FRASE 'GOBERNAR ES FÁCIL, LO DIFÍCIL ES CONDUCIR'?",
+    "options": {
+      "1": "JUAN DOMINGO PERÓN",
+      "2": "CARLOS MENEM",
+      "3": "RAÚL ALFONSÍN",
+      "4": "CRISTINA FERNÁNDEZ DE KIRCHNER"
+    },
+    "answer": "1"
+  },
+  "3": {
+    "question": "¿CUÁL ES EL NOMBRE DE PILA DEL EX TÉCNICO DE LA SELECCIÓN ARGENTINA 'EL LOCO' BIELSA?",
+    "options": {
+      "1": "MARCELO",
+      "2": "JUAN",
+      "3": "CARLOS",
+      "4": "MIGUEL"
+    },
+    "answer": "1"
+  },
+  "4": {
+    "question": "¿A QUÉ PRÓCER ARGENTINO PERTENECE LA FRASE 'SERÁS LO QUE DEBAS SER O NO SERÁS NADA'?",
+    "options": {
+      "1": "SAN MARTÍN",
+      "2": "MANUEL BELGRANO",
+      "3": "JOSÉ DE SAN MARTÍN",
+      "4": "DOMINGO FAUSTINO SARMIENTO"
+    },
+    "answer": "3"
+  },
+  "5": {
+    "question": "¿CON QUÉ COLOR SE ASOCIA POPULARMENTE AL PERIODISMO SENSACIONALISTA?",
+    "options": {
+      "1": "AMARILLO",
+      "2": "ROJO",
+      "3": "VERDE",
+      "4": "AZUL"
+    },
+    "answer": "1"
+  },
+  "6": {
+    "question": "EN EL LENGUAJE DE LAS REDES SOCIALES, ¿CUÁNTOS SEGUIDORES SON '1K'?",
+    "options": {
+      "1": "1.000",
+      "2": "10",
+      "3": "100",
+      "4": "1"
+    },
+    "answer": "1"
+  },
+  "7": {
+    "question": "¿CUÁL ERA EL NOMBRE DE PILA DE KARADAGIÁN, EL RECORDADO LUCHADOR PROFESIONAL DE TITANES EN EL RING?",
+    "options": {
+      "1": "MARTÍN",
+      "2": "JUAN",
+      "3": "CARLOS",
+      "4": "PEDRO"
+    },
+    "answer": "1"
+  },
+  "8": {
+    "question": "¿CÓMO COMIENZA LA CANCIÓN PATRIA CONOCIDA COMO 'AURORA'?",
+    "options": {
+      "1": "ALTA EN EL CIELO",
+      "2": "BANDERA DE MI PAÍS",
+      "3": "VIVA LA PATRIA",
+      "4": "MI ARGENTINA QUERIDA"
+    },
+    "answer": "1"
+  },
+  "9": {
+    "question": "¿CUÁL ES EL NOMBRE DEL DIRECTOR Y DRAMATURGO MUSCARI?",
+    "options": {
+      "1": "JOSÉ MARÍA",
+      "2": "JUAN CARLOS",
+      "3": "CARLOS MIGUEL",
+      "4": "MIGUEL ÁNGEL"
+    },
+    "answer": "1"
+  },
+  "10": {
+    "question": "EN LA POPULAR CANCIÓN DE MARÍA ELENA WALSH, ¿DE QUÉ MATERIAL ES LA TETERA?",
+    "options": {
+      "1": "PORCELANA",
+      "2": "PLÁSTICO",
+      "3": "ACERO INOXIDABLE",
+      "4": "VIDRIO"
+    },
+    "answer": "1"
+  },
+  "11": {
+    "question": "¿EN EL ESCUDO NACIONAL DE QUÉ PAÍS SUDAMERICANO SE LEE LA FRASE 'POR LA RAZÓN O LA FUERZA'?",
+    "options": {
+      "1": "CHILE",
+      "2": "ARGENTINA",
+      "3": "URUGUAY",
+      "4": "BOLIVIA"
+    },
+    "answer": "1"
+  },
+  "12": {
+    "question": "¿CUÁL ES EL NOMBRE DEL CABALLO DEL ZORRO EN LA FAMOSA SERIE TELEVISIVA?",
+    "options": {
+      "1": "TORNADO",
+      "2": "RAYO",
+      "3": "RELÁMPAGO",
+      "4": "VIENTO"
+    },
+    "answer": "1"
+  },
+  "13": {
+    "question": "¿DE QUÉ PAÍS ES ORIGINALMENTE EL 'ORIGAMI'?",
+    "options": {
+      "1": "JAPÓN",
+      "2": "CHINA",
+      "3": "COREA DEL SUR",
+      "4": "TAILANDIA"
+    },
+    "answer": "1"
+  },
+  "14": {
+    "question": "¿EN QUÉ PLAZA DE LA ARGENTINA SE ENCUENTRA LA 'FLORALIS GENÉRICA'?",
+    "options": {
+      "1": "PLAZA DE LAS NACIONES UNIDAS",
+      "2": "PLAZA DE MAYO",
+      "3": "PLAZA SAN MARTÍN",
+      "4": "PLAZA CONGRESO"
+    },
+    "answer": "1"
+  },
+  "15": {
+    "question": "¿A QUÉ ÓRGANO DEL CUERPO AFECTA EL GLAUCOMA?",
+    "options": {
+      "1": "OJOS",
+      "2": "CEREBRO",
+      "3": "CORAZÓN",
+      "4": "PULMONES"
+    },
+    "answer": "1"
+  },
+  "16": {
+    "question": "¿QUÉ ACTOR INTERPRETABA AL SEÑOR BARRIGA EN LA SERIE TELEVISIVA 'EL CHAVO DEL 8'?",
+    "options": {
+      "1": "ÉDGAR VIVAR",
+      "2": "RAMÓN VALDÉS",
+      "3": "CARLOS VILLAGRÁN",
+      "4": "FLORINDA MEZA"
+    },
+    "answer": "1"
+  },
+  "17": {
+    "question": "¿A QUÉ CIUDAD COSTERA SE LE LLAMA 'LA PERLA DEL ATLÁNTICO'?",
+    "options": {
+      "1": "MAR DEL PLATA",
+      "2": "BUENOS AIRES",
+      "3": "MAR DE AJÓ",
+      "4": "VILLA GESELL"
+    },
+    "answer": "1"
+  },
+  "18": {
+    "question": "EN SU VESTIMENTA HABITUAL, ¿CUÁL DE ESTOS DIBUJOS ANIMADOS NO USA PANTALONES?",
+    "options": {
+      "1": "PATO DONALD",
+      "2": "MICKEY MOUSE",
+      "3": "GOOFY",
+      "4": "BOB ESPONJA"
+    },
+    "answer": "1"
+  },
+  "19": {
+    "question": "¿DE QUÉ FORMA FALLECIÓ JORGE NEWBERY, UNO DE LOS PIONEROS DE LA AVIACIÓN ARGENTINA?",
+    "options": {
+      "1": "EN UN ACCIDENTE AÉREO",
+      "2": "ENFERMEDAD",
+      "3": "EN UN ACCIDENTE AUTOMOVILÍSTICO",
+      "4": "EN UN DESASTRE NATURAL"
+    },
+    "answer": "1"
+  },
+  "20": {
+    "question": "¿CUÁL ES LA BASE DE LA TÍPICA PAELLA?",
+    "options": {
+      "1": "ARROZ",
+      "2": "PASTA",
+      "3": "PATATAS",
+      "4": "QUINOA"
+    },
+    "answer": "1"
+  },
+  "21": {
+    "question": "¿EN QUÉ LOCALIDAD DE LA PROVINCIA DE BUENOS AIRES SE ENCUENTRA LA RESIDENCIA OFICIAL DE VERANO DEL PRESIDENTE DE LA NACIÓN?",
+    "options": {
+      "1": "CHAPADMALAL",
+      "2": "MAR DEL PLATA",
+      "3": "PINAMAR",
+      "4": "VILLA GESELL"
+    },
+    "answer": "1"
+  },
+  "22": {
+    "question": "¿CON QUÉ PROVINCIA ESTÁN ESTRECHAMENTE RELACIONADOS LOS HERMANOS RODRÍGUEZ SAÁ?",
+    "options": {
+      "1": "SAN LUIS",
+      "2": "BUENOS AIRES",
+      "3": "CÓRDOBA",
+      "4": "MENDOZA"
+    },
+    "answer": "1"
+  },
+  "23": {
+    "question": "¿CUÁL DE ESTOS SIGNOS DEL ZODÍACO SUELE REPRESENTARSE CON LA IMAGEN DE UNA BALANZA?",
+    "options": {
+      "1": "LIBRA",
+      "2": "ESCORPIO",
+      "3": "GÉMINIS",
+      "4": "VIRGO"
+    },
+    "answer": "1"
+  },
+  "24": {
+    "question": "¿EN QUÉ PAÍS SE ORIGINÓ EL FAMOSO CIRQUE DU SOLEIL?",
+    "options": {
+      "1": "CANADÁ",
+      "2": "FRANCIA",
+      "3": "ESTADOS UNIDOS",
+      "4": "ESPAÑA"
+    },
+    "answer": "1"
+  },
+  "25": {
+    "question": "¿CÓMO SE LLAMA LA VÍA DE NAVEGACIÓN ARTIFICIAL SITUADA EN EGIPTO QUE UNE EL MAR MEDITERRÁNEO CON EL MAR ROJO?",
+    "options": {
+      "1": "CANAL DE SUEZ",
+      "2": "CANAL DE PANAMÁ",
+      "3": "CANAL DE LA MANCHA",
+      "4": "CANAL DE CORINTO"
+    },
+    "answer": "1"
+  },
+  "26": {
+    "question": "¿QUIÉN ESCRIBIÓ LA NOVELA 'JUGUETE RABIOSO'?",
+    "options": {
+      "1": "ROBERTO ARLT",
+      "2": "JULIO CORTÁZAR",
+      "3": "JORGE LUIS BORGES",
+      "4": "ERNESTO SÁBATO"
+    },
+    "answer": "1"
+  },
+  "27": {
+    "question": "¿CÓMO SE LLAMA LA IMPORTANTE CIUDAD PERUANA QUE SE ENCUENTRA CERCANA A MACHU PICCHU?",
+    "options": {
+      "1": "CUZCO",
+      "2": "LIMA",
+      "3": "AREQUIPA",
+      "4": "TRUJILLO"
+    },
+    "answer": "1"
+  },
+  "28": {
+    "question": "¿A QUÉ EDAD FALLECIÓ EL CANTANTE RODRIGO BUENO?",
+    "options": {
+      "1": "27 AÑOS",
+      "2": "32 AÑOS",
+      "3": "25 AÑOS",
+      "4": "29 AÑOS"
+    },
+    "answer": "1"
+  },
+  "29": {
+    "question": "¿EN QUÉ ACTUAL PAÍS NACIÓ EL RECORDADO CONDUCTOR TELEVISIVO ANTE GARMAZ?",
+    "options": {
+      "1": "CROACIA",
+      "2": "SERBIA",
+      "3": "ESLOVENIA",
+      "4": "BOSNIA Y HERZEGOVINA"
+    },
+    "answer": "1"
+  },
+  "30": {
+    "question": "¿QUIÉN ERA PRESIDENTE DE ARGENTINA CUANDO SE ADQUIRIÓ EL AVIÓN PRESIDENCIAL 'TANGO 01'?",
+    "options": {
+      "1": "CARLOS MENEM",
+      "2": "FERNANDO DE LA RÚA",
+      "3": "NESTOR KIRCHNER",
+      "4": "CRISTINA FERNÁNDEZ DE KIRCHNER"
+    },
+    "answer": "1"
+  },
+  "31": {
+    "question": "¿DE QUÉ EQUIPO DE FÚTBOL ES HINCHA EL PAPA FRANCISCO?",
+    "options": {
+      "1": "SAN LORENZO",
+      "2": "RIVER PLATE",
+      "3": "BOCA JUNIORS",
+      "4": "INDEPENDIENTE"
+    },
+    "answer": "1"
+  },
+  "32": {
+    "question": "¿QUÉ RELACIÓN DE PARENTESCO TIENE DIEGO TORRES CON LA ACTRIZ Y CANTANTE ÁNGELA TORRES?",
+    "options": {
+      "1": "TÍO Y SOBRINA",
+      "2": "PADRE E HIJA",
+      "3": "PRIMOS HERMANOS",
+      "4": "ABUELO Y NIETA"
+    },
+    "answer": "1"
+  },
+  "33": {
+    "question": "¿EN QUÉ ACTIVIDAD SE DESTACÓ RENÉ LAVAND?",
+    "options": {
+      "1": "EN LA MAGIA",
+      "2": "EN LA MÚSICA",
+      "3": "EN EL DEPORTE",
+      "4": "EN LA POLÍTICA"
+    },
+    "answer": "1"
+  },
+  "34": {
+    "question": "¿CON QUÉ NOMBRE SE CONOCE POPULARMENTE AL MAÍZ UTILIZADO PARA HACER POCHOCLO?",
+    "options": {
+      "1": "MAÍZ PISINGALLO",
+      "2": "MAÍZ MORADO",
+      "3": "MAÍZ DURO",
+      "4": "MAÍZ CHOCOLATERO"
+    },
+    "answer": "1"
+  },
+  "35": {
+    "question": "¿DE CUÁNTA PLATA HABLO SI DIGO UNA 'LUCA'?",
+    "options": {
+      "1": "MIL PESOS",
+      "2": "CIEN PESOS",
+      "3": "DIEZ PESOS",
+      "4": "CINCO PESOS"
+    },
+    "answer": "1"
+  },
+  "36": {
+    "question": "EL VINO TORRONTÉS, ¿ES UN VINO BLANCO O UN VINO TINTO?",
+    "options": {
+      "1": "VINO BLANCO",
+      "2": "VINO TINTO",
+      "3": "VINO ROSADO",
+      "4": "VINO ESPUMOSO"
+    },
+    "answer": "1"
+  },
+  "37": {
+    "question": "¿A QUÉ HACE ALUSIÓN, LA PALABRA EN LUNFARDO 'GASOLERO'?",
+    "options": {
+      "1": "CUIDA SU ECONOMÍA",
+      "2": "ES AMIGABLE",
+      "3": "ES VALIENTE",
+      "4": "ES INTELIGENTE"
+    },
+    "answer": "1"
+  },
+  "38": {
+    "question": "¿QUÉ FAMOSA CANTANTE Y ACTRIZ INTERPRETÓ A EVA PERÓN EN LA PELÍCULA 'EVITA', DIRIGIDA POR ALAN PARKER?",
+    "options": {
+      "1": "MADONNA",
+      "2": "MERYL STREEP",
+      "3": "JULIA ROBERTS",
+      "4": "CATE BLANCHETT"
+    },
+    "answer": "1"
+  },
+  "39": {
+    "question": "¿QUIÉN HIZO LA TAPA DE LA PRIMERA EDICIÓN DE LA REVISTA PLAYBOY?",
+    "options": {
+      "1": "MARILYN MONROE",
+      "2": "HUGH HEFNER",
+      "3": "PAMELA ANDERSON",
+      "4": "KIM KARDASHIAN"
+    },
+    "answer": "1"
+  },
+  "40": {
+    "question": "¿QUÉ SIGNIFICA TENER UNA RELACIÓN EPISTOLAR CON ALGUIEN?",
+    "options": {
+      "1": "QUE SE COMUNICAN POR CARTA",
+      "2": "QUE TIENEN UNA RELACIÓN AMOROSA",
+      "3": "QUE SON AMIGOS DE INFANCIA",
+      "4": "QUE TRABAJAN JUNTOS"
+    },
+    "answer": "1"
+  },
+  "41": {
+    "question": "EN EL FAMOSO DIBUJO ANIMADO, ¿CÓMO SE LLAMA EL GATO QUE INTENTA SIEMPRE ATRAPAR A TWEETY?",
+    "options": {
+      "1": "SILVESTRE",
+      "2": "TOM",
+      "3": "GARFIELD",
+      "4": "FÉLIX"
+    },
+    "answer": "1"
+  },
+  "42": {
+    "question": "¿EN QUÉ DEPORTE LAS CONVERSIONES SE CUENTAN COMO DOBLE, TRIPLE Y TIRO LIBRE?",
+    "options": {
+      "1": "BÁSQUET",
+      "2": "FÚTBOL",
+      "3": "TENIS",
+      "4": "RUGBY"
+    },
+    "answer": "1"
+  },
+  "43": {
+    "question": "¿CUÁNTOS SON LOS 'CHANCHITOS' QUE ESCAPAN DEL LOBO EN EL FAMOSO CUENTO INFANTIL?",
+    "options": {
+      "1": "3",
+      "2": "2",
+      "3": "4",
+      "4": "5"
+    },
+    "answer": "1"
+  },
+  "44": {
+    "question": "¿EN LA INTERSECCIÓN DE LA '9 DE JULIO' CON QUÉ OTRA AVENIDA ESTÁ EL OBELISCO?",
+    "options": {
+      "1": "CORRIENTES",
+      "2": "AVENIDA DE MAYO",
+      "3": "CALLAO",
+      "4": "RIVADAVIA"
+    },
+    "answer": "1"
+  },
+  "45": {
+    "question": "¿DE QUÉ MINISTERIO DEPENDE LA PREFECTURA NAVAL ARGENTINA?",
+    "options": {
+      "1": "MINISTERIO DE SEGURIDAD",
+      "2": "MINISTERIO DE DEFENSA",
+      "3": "MINISTERIO DE INTERIOR",
+      "4": "MINISTERIO DE JUSTICIA"
+    },
+    "answer": "1"
+  },
+  "46": {
+    "question": "¿QUÉ MÍTICO EDIFICIO DE NUEVA YORK ESCALÓ KING-KONG EN SU PELÍCULA ORIGINAL?",
+    "options": {
+      "1": "EL EMPIRE STATE",
+      "2": "EL WORLD TRADE CENTER",
+      "3": "EL PUENTE DE BROOKLYN",
+      "4": "EL CHRYSLER BUILDING"
+    },
+    "answer": "1"
+  },
+  "47": {
+    "question": "¿CON QUÉ NOMBRE SE CONOCE A LA TÍPICA DANZA REALIZADA POR LOS ALL BLACKS ANTES DE CADA PARTIDO?",
+    "options": {
+      "1": "HAKA",
+      "2": "SAMBA",
+      "3": "TANGO",
+      "4": "FLAMENCO"
+    },
+    "answer": "1"
+  },
+  "48": {
+    "question": "EN LA POPULAR NOVELA, ¿CONTRA QUÉ ESTRUCTURAS LUCHA DON QUIJOTE?",
+    "options": {
+      "1": "MOLINOS DE VIENTO",
+      "2": "CASTILLOS",
+      "3": "IGLESIAS",
+      "4": "PALACIOS"
+    },
+    "answer": "1"
+  },
+  "49": {
+    "question": "¿QUIÉN FUE EL TÉCNICO DE LA SELECCIÓN ARGENTINA DURANTE EL MUNDIAL DE BRASIL 2014?",
+    "options": {
+      "1": "ALEJANDRO SABELLA",
+      "2": "DIEGO MARADONA",
+      "3": "SERGIO BATISTA",
+      "4": "JOSÉ PEKERMAN"
+    },
+    "answer": "1"
+  },
+  "50": {
+    "question": "¿DE QUÉ CIUDAD DEL CONURBANO ES INTENDENTE EL COCINERO MARTINIANO MOLINA?",
+    "options": {
+      "1": "QUILMES",
+      "2": "LANÚS",
+      "3": "AVELLANEDA",
+      "4": "MORÓN"
+    },
+    "answer": "1"
+  },
+  "51": {
+    "question": "¿QUÉ PERSONAJE DE CHESPIRITO TOMA LA PASTILLA DE 'CHIQUITOLINA'?",
+    "options": {
+      "1": "EL CHAPULÍN COLORADO",
+      "2": "EL CHÓMPiras",
+      "3": "EL CHAPARRÓN BONAPARTE",
+      "4": "EL CHÓMPiro"
+    },
+    "answer": "1"
+  },
+  "52": {
+    "question": "¿EN QUÉ PROVINCIA ARGENTINA SE ENCUENTRA EL PARQUE NACIONAL TALAMPAYA?",
+    "options": {
+      "1": "LA RIOJA",
+      "2": "SAN JUAN",
+      "3": "SALTA",
+      "4": "JUJUY"
+    },
+    "answer": "1"
+  },
+  "53": {
+    "question": "SEGÚN LOS NÚMEROS DE LA QUINIELA, ¿QUÉ ES EL 48?",
+    "options": {
+      "1": "EL MUERTO QUE HABLA",
+      "2": "EL MUERTO QUE LLORA",
+      "3": "EL MUERTO QUE RÍE",
+      "4": "EL MUERTO QUE CANTA"
+    },
+    "answer": "1"
+  },
+  "54": {
+    "question": "¿CON QUIÉN COMPARTIÓ FÓRMULA PRESIDENCIAL CARLOS MENEM EN LAS ELECCIONES DE 1989?",
+    "options": {
+      "1": "EDUARDO DUHALDE",
+      "2": "ADOLFO RODRÍGUEZ SAA",
+      "3": "FERNANDO DE LA RÚA",
+      "4": "NÉSTOR KIRCHNER"
+    },
+    "answer": "1"
+  },
+  "55": {
+    "question": "¿QUIÉN FUE EL CANDIDATO POR EL FRENTE PARA LA VICTORIA EN LAS ELECCIONES A GOBERNADOR POR LA PROVINCIA DE BUENOS AIRES EN 2015?",
+    "options": {
+      "1": "ANÍBAL FERNÁNDEZ",
+      "2": "DANIEL SCIOLI",
+      "3": "AXEL KICILLOF",
+      "4": "FLORENCIO RANDAZZO"
+    },
+    "answer": "1"
+  },
+  "56": {
+    "question": "¿QUÉ ES UN QUELOIDE?",
+    "options": {
+      "1": "UN TIPO DE CICATRIZ",
+      "2": "UNA ENFERMEDAD CARDIOVASCULAR",
+      "3": "UNA PLANTA TROPICAL",
+      "4": "UN INSECTO VENENOSO"
+    },
+    "answer": "1"
+  },
+  "57": {
+    "question": "¿POR SU LABOR EN QUÉ PELÍCULA GANÓ EL OSCAR COMO MEJOR ACTOR LEONARDO DICAPRIO?",
+    "options": {
+      "1": "EL RENACIDO",
+      "2": "TITANIC",
+      "3": "EL AVIADOR",
+      "4": "DJANGO DESENCADENADO"
+    },
+    "answer": "1"
+  },
+  "58": {
+    "question": "¿A QUÉ DIBUJOS ANIMADOS PERTENECEN LOS PERSONAJES PIERRE 'PIER' NODOYUNA, PATÁN Y PENÉLOPE GLAMOUR?",
+    "options": {
+      "1": "LOS AUTOS LOCOS",
+      "2": "LOS PICAPIEDRA",
+      "3": "LOS SUPERSÓNICOS",
+      "4": "LOS SIMPSON"
+    },
+    "answer": "1"
+  },
+  "59": {
+    "question": "¿QUÉ DISCAPACIDAD TENÍA EL MÚSICO RAY CHARLES?",
+    "options": {
+      "1": "NO PODÍA VER",
+      "2": "NO PODÍA OÍR",
+      "3": "NO PODÍA CAMINAR",
+      "4": "NO PODÍA HABLAR"
+    },
+    "answer": "1"
+  },
+  "60": {
+    "question": "¿CON QUÉ PAÍS ESTÁ ASOCIADA LA MAFIA CONOCIDA COMO 'LOS YAKUZA'?",
+    "options": {
+      "1": "JAPÓN",
+      "2": "ITALIA",
+      "3": "RUSIA",
+      "4": "COLOMBIA"
+    },
+    "answer": "1"
+  },
+  "61": {
+    "question": "¿QUIÉN ERA PRESIDENTE CUANDO EL DIPUTADO MARTÍN LOUSTEAU FUE MINISTRO DE ECONOMÍA?",
+    "options": {
+      "1": "CRISTINA FERNÁNDEZ",
+      "2": "MAURICIO MACRI",
+      "3": "EDUARDO DUHALDE",
+      "4": "NESTOR KIRCHNER"
+    },
+    "answer": "1"
+  },
+  "62": {
+    "question": "¿EN QUÉ CIUDAD COLOMBIANA NACIÓ LA CANTANTE 'SHAKIRA'?",
+    "options": {
+      "1": "EN BARRANQUILLA",
+      "2": "MEDELLÍN",
+      "3": "CALI",
+      "4": "BOGOTÁ"
+    },
+    "answer": "1"
+  },
+  "63": {
+    "question": "¿EN QUÉ CONTINENTE SE ENCUENTRA EL RÍO ÉUFRATES?",
+    "options": {
+      "1": "ASIA",
+      "2": "ÁFRICA",
+      "3": "EUROPA",
+      "4": "AMÉRICA"
+    },
+    "answer": "1"
+  },
+  "64": {
+    "question": "¿QUIÉN PROTAGONIZÓ LA SERIE TELEVISIVA SOBRE UNA CORREDORA DE AUTOS QUE SE LLAMABA 'CAROLA CASINI'?",
+    "options": {
+      "1": "ARACELI GONZÁLES",
+      "2": "ANDREA DEL BOCA",
+      "3": "ROMINA YAN",
+      "4": "FLORENCIA PEÑA"
+    },
+    "answer": "1"
+  },
+  "65": {
+    "question": "¿CUÁL ES EL CONTINENTE CON MAYOR CANTIDAD DE HABITANTES?",
+    "options": {
+      "1": "ASIA",
+      "2": "ÁFRICA",
+      "3": "EUROPA",
+      "4": "AMÉRICA"
+    },
+    "answer": "1"
+  },
+  "66": {
+    "question": "¿SOBRE QUÉ TEMA TRATAN LAS 'LEYES DE MENDEL'?",
+    "options": {
+      "1": "HERENCIA GENÉTICA",
+      "2": "TERMODINÁMICA",
+      "3": "GRAVITACIÓN",
+      "4": "ÓPTICA"
+    },
+    "answer": "1"
+  },
+  "67": {
+    "question": "¿DE QUÉ CLUB DE FÚTBOL CORDOBÉS ERA HINCHA EL 'POTRO' RODRIGO?",
+    "options": {
+      "1": "DE BELGRANO",
+      "2": "TALLERES",
+      "3": "INSTITUTO",
+      "4": "RACING"
+    },
+    "answer": "1"
+  },
+  "68": {
+    "question": "¿DE QUÉ GÉNERO MUSICAL FUE UNO DE LOS MAYORES EXPONENTES B. B. KING?",
+    "options": {
+      "1": "BLUES",
+      "2": "ROCK",
+      "3": "JAZZ",
+      "4": "REGGAE"
+    },
+    "answer": "1"
+  },
+  "69": {
+    "question": "¿CERCA DE QUÉ OCÉANO SE ENCUENTRA LA FALLA DE SAN ANDRÉS?",
+    "options": {
+      "1": "PACÍFICO",
+      "2": "ATLÁNTICO",
+      "3": "ÍNDICO",
+      "4": "ÁRTICO"
+    },
+    "answer": "1"
+  },
+  "70": {
+    "question": "¿CUÁL ERA EL NOMBRE DE PILA DEL 'NEGRO' FONTANARROSA?",
+    "options": {
+      "1": "ROBERTO",
+      "2": "JUAN",
+      "3": "CARLOS",
+      "4": "EDUARDO"
+    },
+    "answer": "1"
+  },
+  "71": {
+    "question": "¿A QUÉ FRUTA LLAMAN 'MELANCIA' EN BRASIL?",
+    "options": {
+      "1": "SANDÍA",
+      "2": "MANGO",
+      "3": "PLÁTANO",
+      "4": "NARANJA"
+    },
+    "answer": "1"
+  },
+  "72": {
+    "question": "¿EN QUÉ MUSEO SE ENCUENTRA 'LA VENUS DE MILO'?",
+    "options": {
+      "1": "MUSEO DE LOUVRE",
+      "2": "MUSEO METROPOLITANO DE ARTE",
+      "3": "MUSEO DEL PRADO",
+      "4": "MUSEO HERMITAGE"
+    },
+    "answer": "1"
+  },
+  "73": {
+    "question": "¿EN QUÉ PROVINCIA DEL SUR ARGENTINO SE ENCUENTRA LA CIUDAD DE RÍO GRANDE?",
+    "options": {
+      "1": "TIERRA DEL FUEGO",
+      "2": "SANTA CRUZ",
+      "3": "CHUBUT",
+      "4": "RÍO NEGRO"
+    },
+    "answer": "1"
+  },
+  "74": {
+    "question": "¿A QUÉ HACE REFERENCIA LA ACCIÓN DE 'ACICALARSE'?",
+    "options": {
+      "1": "A LIMPIARSE",
+      "2": "A VESTIRSE",
+      "3": "A COMER",
+      "4": "A VIAJAR"
+    },
+    "answer": "1"
+  },
+  "75": {
+    "question": "¿CUÁL ES EL TIPO DE CÉLULA QUE NO TIENE UN NÚCLEO DEFINIDO?",
+    "options": {
+      "1": "PROCARIOTA",
+      "2": "EUCARIOTA",
+      "3": "ANIMAL",
+      "4": "VEGETAL"
+    },
+    "answer": "1"
+  },
+  "76": {
+    "question": "EN LA PELÍCULA 'VOLVER AL FUTURO', ¿QUÉ LE DECÍAN AL PERSONAJE MARTY MCFLY QUE LO HACÍA REACCIONAR?",
+    "options": {
+      "1": "GALLINA",
+      "2": "PERRO",
+      "3": "TONTITO",
+      "4": "NERD"
+    },
+    "answer": "1"
+  },
+  "77": {
+    "question": "¿QUÉ PARTIDO POLÍTICO LIDERA EL PRESIDENTE DE BOLIVIA EVO MORALES?",
+    "options": {
+      "1": "MOVIMIENTO AL SOCIALISMO",
+      "2": "PARTIDO DEMÓCRATA",
+      "3": "PARTIDO LIBERAL",
+      "4": "PARTIDO COMUNISTA"
+    },
+    "answer": "1"
+  },
+  "78": {
+    "question": "¿QUIÉN FUE EL TÉCNICO DE LA SELECCIÓN ARGENTINA EN EL MUNDIAL DE KOREA-JAPÓN DEL AÑO 2002?",
+    "options": {
+      "1": "MARCELO BIELSA",
+      "2": "DIEGO MARADONA",
+      "3": "CARLOS BIANCHI",
+      "4": "ALFIO BASILE"
+    },
+    "answer": "1"
+  },
+  "79": {
+    "question": "¿A QUÉ TENISTA ARGENTINO SE LE ADJUDICA HABER INVENTADO LA JUGADA LLAMADA 'GRAN WILLY'?",
+    "options": {
+      "1": "GUILLERMO VILAS",
+      "2": "DAVID NALBANDIAN",
+      "3": "GASTÓN GAUDIO",
+      "4": "JUAN MARTÍN DEL POTRO"
+    },
+    "answer": "1"
+  },
+  "80": {
+    "question": "¿CUÁL ES EL ANTÓNIMO DE UTOPÍA?",
+    "options": {
+      "1": "DISTOPÍA",
+      "2": "REALIDAD",
+      "3": "ESPERANZA",
+      "4": "FANTASÍA"
+    },
+    "answer": "1"
+  },
+  "81": {
+    "question": "¿CON QUÉ NOMBRE SE AUTODENOMINÓ EL GOLPE DE ESTADO QUE DERROCÓ A PERÓN EN 1955?",
+    "options": {
+      "1": "REVOLUCIÓN LIBERTADORA",
+      "2": "REVOLUCIÓN DE MAYO",
+      "3": "REVOLUCIÓN PERONISTA",
+      "4": "REVOLUCIÓN CULTURAL"
+    },
+    "answer": "1"
+  },
+  "82": {
+    "question": "¿EN QUÉ PAÍS NACIÓ EL FAMOSO CANTANTE LUIS FONSI?",
+    "options": {
+      "1": "PUERTO RICO",
+      "2": "MÉXICO",
+      "3": "CUBA",
+      "4": "REPÚBLICA DOMINICANA"
+    },
+    "answer": "1"
+  },
+  "83": {
+    "question": "¿QUÉ ES LA CULEBRILLA?",
+    "options": {
+      "1": "UNA ENFERMEDAD DE LA PIEL",
+      "2": "UN INSECTO VENENOSO",
+      "3": "UN TIPO DE SERPIENTE",
+      "4": "UNA DANZA TRADICIONAL"
+    },
+    "answer": "1"
+  },
+  "84": {
+    "question": "¿DE QUÉ PAÍS FUE REINA MARÍA ANTONIETA?",
+    "options": {
+      "1": "FRANCIA",
+      "2": "ITALIA",
+      "3": "INGLATERRA",
+      "4": "ESPAÑA"
+    },
+    "answer": "1"
+  },
+  "85": {
+    "question": "¿CUÁNTAS PROVINCIAS ARGENTINAS TIENEN COSTAS SOBRE EL MAR?",
+    "options": {
+      "1": "5",
+      "2": "2",
+      "3": "7",
+      "4": "3"
+    },
+    "answer": "1"
+  },
+  "86": {
+    "question": "¿CUÁL ES EL NOMBRE DE PILA DEL 'MUÑECO' MATEYCO?",
+    "options": {
+      "1": "JUAN ALBERTO",
+      "2": "PEDRO LUIS",
+      "3": "CARLOS MIGUEL",
+      "4": "MARIO EDUARDO"
+    },
+    "answer": "1"
+  },
+  "87": {
+    "question": "¿CON QUÉ ANIMAL SE SUELE COMPARAR A UNA PERSONA QUE ESCUPE?",
+    "options": {
+      "1": "GUANACO",
+      "2": "CAMELLO",
+      "3": "LLAMA",
+      "4": "ALPACA"
+    },
+    "answer": "1"
+  },
+  "88": {
+    "question": "¿A QUÉ CANTANTE DE TANGO LE DECÍAN 'EL ZORZAL CRIOLLO'?",
+    "options": {
+      "1": "CARLOS GARDEL",
+      "2": "ANÍBAL TROILO",
+      "3": "ASTOR PIAZZOLLA",
+      "4": "ROBERTO GOYENECHE"
+    },
+    "answer": "1"
+  },
+  "89": {
+    "question": "¿CUÁL ES LA CAPITAL DE LA INDIA?",
+    "options": {
+      "1": "NUEVA DELHI",
+      "2": "MUMBAI",
+      "3": "CALCUTA",
+      "4": "BOMBAY"
+    },
+    "answer": "1"
+  },
+  "90": {
+    "question": "¿EN QUÉ PARTE DE LA CASA SE ENCUENTRA GENERALMENTE EL ZAGUÁN?",
+    "options": {
+      "1": "PRÓXIMO A LA ENTRADA",
+      "2": "EN EL PATIO TRASERO",
+      "3": "EN EL SÓTANO",
+      "4": "EN EL ÁTICO"
+    },
+    "answer": "1"
+  },
+  "91": {
+    "question": "¿QUÉ ES EL CIGÜEÑAL?",
+    "options": {
+      "1": "PARTE DEL AUTO",
+      "2": "UNA AVE",
+      "3": "UNA FRUTA",
+      "4": "UN INSTRUMENTO MUSICAL"
+    },
+    "answer": "1"
+  },
+  "92": {
+    "question": "¿CUÁL ES LA CAPITAL DE POLONIA?",
+    "options": {
+      "1": "VARSOVIA",
+      "2": "CRACOVIA",
+      "3": "LUBLIN",
+      "4": "POZNAN"
+    },
+    "answer": "1"
+  },
+  "93": {
+    "question": "¿QUÉ ESTUDIA LA TEOLOGÍA?",
+    "options": {
+      "1": "TEMAS RELACIONADOS CON DIOS",
+      "2": "EL CUERPO HUMANO",
+      "3": "EL SISTEMA SOLAR",
+      "4": "LOS ANIMALES"
+    },
+    "answer": "1"
+  },
+  "94": {
+    "question": "¿CÓMO SE LLAMA LA ESPOSA DE PALITO ORTEGA?",
+    "options": {
+      "1": "EVANGELINA SALAZAR",
+      "2": "SUSANA GIMÉNEZ",
+      "3": "MIRTHA LEGRAND",
+      "4": "MARIANA FABBIANI"
+    },
+    "answer": "1"
+  },
+  "95": {
+    "question": "¿CUÁL DE LOS SIGUIENTE ES UN ESTADO LIBRE ASOCIADO A LOS ESTADOS UNIDOS?",
+    "options": {
+      "1": "PUERTO RICO",
+      "2": "CUBA",
+      "3": "REPÚBLICA DOMINICANA",
+      "4": "JAMAICA"
+    },
+    "answer": "1"
+  },
+  "96": {
+    "question": "¿CÓMO SE LLAMA LA BIBLIOTECA NACIONAL DE LA REPÚBLICA ARGENTINA?",
+    "options": {
+      "1": "MARIANO MORENO",
+      "2": "JORGE LUIS BORGES",
+      "3": "SARMIENTO",
+      "4": "SAN MARTÍN"
+    },
+    "answer": "1"
+  },
+  "97": {
+    "question": "¿CÓMO SE LLAMABA EL BOXEADOR QUE INTERPRETABA OSVALDO LAPORT EN LA SERIE 'CAMPEONES DE LA VIDA'?",
+    "options": {
+      "1": "GUIDO GUEVARA",
+      "2": "SANTOS CÁCERES",
+      "3": "ROBERTO SÁNCHEZ",
+      "4": "RAMÓN SANTANA"
+    },
+    "answer": "1"
+  },
+  "98": {
+    "question": "¿CÓMO SE SUELE LLAMAR A LOS 'PARCHES' DE LA ROPA QUE SE USAN EN LAS RODILLAS O LOS CODOS?",
+    "options": {
+      "1": "PITUCONES",
+      "2": "REMENDONES",
+      "3": "ADORNOS",
+      "4": "PEGOTES"
+    },
+    "answer": "1"
+  },
+  "99": {
+    "question": "¿CUÁNTAS VECES FUE ELEGIDO BILL CLINTON COMO PRESIDENTE DE LOS ESTADOS UNIDOS?",
+    "options": {
+      "1": "DOS",
+      "2": "UNA",
+      "3": "TRES",
+      "4": "CUATRO"
+    },
+    "answer": "1"
+  },
+  "100": {
+    "question": "¿CÓMO SE LLAMABAN LOS PERSONAJES PROTAGONISTAS DE LA RECORDADA SERIE ESTADOUNIDENSE 'BLANCO Y NEGRO'?",
+    "options": {
+      "1": "ARNOLD Y WILLIS",
+      "2": "TOM Y JERRY",
+      "3": "LUCAS Y LEO",
+      "4": "CARLOS Y JUAN"
+    },
+    "answer": "1"
+  },
+  "101": {
+    "question": "¿QUIÉN DIRIGIÓ Y PROTAGONIZÓ LA PELÍCULA 'LA VIDA ES BELLA'?",
+    "options": {
+      "1": "ROBERTO BENIGNI",
+      "2": "STEVEN SPIELBERG",
+      "3": "MARTIN SCORSESE",
+      "4": "QUENTIN TARANTINO"
+    },
+    "answer": "1"
+  },
+  "102": {
+    "question": "¿QUÉ BEBIDA ALCOHÓLICA SE UTILIZA PARA PREPARAR UNA CAIPIRIÑA?",
+    "options": {
+      "1": "CACHAZA",
+      "2": "RON",
+      "3": "TEQUILA",
+      "4": "VODKA"
+    },
+    "answer": "1"
+  },
+  "103": {
+    "question": "¿CÓMO ES CONOCIDO EL SIGLO EN EL QUE OCURRIÓ EL MOVIMIENTO CULTURAL E INTELECTUAL EUROPEO 'LA ILUSTRACIÓN'?",
+    "options": {
+      "1": "SIGLO DE LAS LUCES",
+      "2": "SIGLO DE ORO",
+      "3": "SIGLO XX",
+      "4": "SIGLO DE LA RAZÓN"
+    },
+    "answer": "1"
+  },
+  "104": {
+    "question": "¿QUÉ SIGNIFICAN LAS SIGLAS 'FMI'?",
+    "options": {
+      "1": "FONDO MONETARIO INTERNACIONAL",
+      "2": "FEDERACIÓN MUNDIAL DE INSTITUCIONES",
+      "3": "FEDERACIÓN DE MEDIOS INTERNACIONALES",
+      "4": "FONDO MUNDIAL DE INVERSIONES"
+    },
+    "answer": "1"
+  },
+  "105": {
+    "question": "¿DE QUÉ TRATA EL LIBRO DE DOÑA PETRONA?",
+    "options": {
+      "1": "RECETAS DE COCINA",
+      "2": "POESÍA",
+      "3": "HISTORIA ARGENTINA",
+      "4": "CIENCIA Y TECNOLOGÍA"
+    },
+    "answer": "1"
+  },
+  "106": {
+    "question": "¿CUÁNDO UN DELITO PUEDE SER CALIFICADO COMO CULPOSO?",
+    "options": {
+      "1": "CUANDO NO HUBO INTENCIÓN DE COMETERLO",
+      "2": "CUANDO HAY PLANEACIÓN PREVIA",
+      "3": "CUANDO SE COMETE BAJO INFLUENCIA DE DROGAS",
+      "4": "CUANDO ES COMETIDO POR UN MENOR DE EDAD"
+    },
+    "answer": "1"
+  },
+  "107": {
+    "question": "¿CÓMO SOLÍA LLAMAR SUSANA GIMÉNEZ AL PIANISTA DE SU PROGRAMA?",
+    "options": {
+      "1": "MAESTRULI",
+      "2": "CHACHO",
+      "3": "PITUFO",
+      "4": "FACHO"
+    },
+    "answer": "1"
+  },
+  "108": {
+    "question": "¿CUÁNTOS MUNDIALES LLEVA JUGADOS LIONEL MESSI CON LA SELECCIÓN MAYOR?",
+    "options": {
+      "1": "3",
+      "2": "4",
+      "3": "5",
+      "4": "6"
+    },
+    "answer": "2"
+  },
+  "109": {
+    "question": "¿CONTRA QUÉ SELECCIÓN PERDIÓ ARGENTINA LAS ÚLTIMAS DOS FINALES DE LA COPA AMÉRICA?",
+    "options": {
+      "1": "CHILE",
+      "2": "BRASIL",
+      "3": "URUGUAY",
+      "4": "COLOMBIA"
+    },
+    "answer": "1"
+  },
+  "110": {
+    "question": "¿CÓMO SE LLAMABA EL DINOSAURIO VERDE QUE ESTABA JUNTO A MARCELO TINELLI EN VIDEOMATCH EN LA DÉCADA DEL '90?",
+    "options": {
+      "1": "BERNARDO",
+      "2": "DINO",
+      "3": "PEPE",
+      "4": "LUCHO"
+    },
+    "answer": "1"
+  },
+  "111": {
+    "question": "¿DE QUÉ PROVINCIA ERA ORIUNDO EL EX PRESIDENTE ARTURO FRONDIZI?",
+    "options": {
+      "1": "BUENOS AIRES",
+      "2": "CORRIENTES",
+      "3": "CÓRDOBA",
+      "4": "SANTA FE"
+    },
+    "answer": "2"
+  },
+  "112": {
+    "question": "¿EN CUÁL DE LOS SIGUIENTES DEPORTES SE EJECUTA UN 'CÓRNER CORTO'?",
+    "options": {
+      "1": "FÚTBOL",
+      "2": "BÁSQUET",
+      "3": "RUGBY",
+      "4": "HOCKEY SOBRE CÉSPED"
+    },
+    "answer": "4"
+  },
+  "113": {
+    "question": "¿QUÉ ANIMAL VISITA A LOS CHICOS CUANDO SE LES CAEN LOS DIENTES?",
+    "options": {
+      "1": "HADA DE LOS DIENTES",
+      "2": "EL RATÓN PÉREZ",
+      "3": "EL CONEJO DE PASCUA",
+      "4": "EL DUENDE MÁGICO"
+    },
+    "answer": "2"
+  },
+  "114": {
+    "question": "SEGÚN EL 'MARTÍN FIERRO', ¿QUÉ PASA SI LOS HERMANOS SE PELEAN ENTRE ELLOS?",
+    "options": {
+      "1": "SE PERDONAN",
+      "2": "LOS DEVORAN LOS DE AFUERA",
+      "3": "SE ABRAZAN",
+      "4": "NO PASA NADA"
+    },
+    "answer": "2"
+  },
+  "115": {
+    "question": "¿EN EL LÍMITE DE QUÉ PAÍSES SE ENCUENTRA EL VOLCÁN COPAHUE?",
+    "options": {
+      "1": "ARGENTINA - CHILE",
+      "2": "ARGENTINA - URUGUAY",
+      "3": "CHILE - PERÚ",
+      "4": "ARGENTINA - BOLIVIA"
+    },
+    "answer": "1"
+  },
+  "116": {
+    "question": "¿EN QUÉ AÑO SE SANCIONÓ LA LEY SÁENZ PEÑA?",
+    "options": {
+      "1": "1892",
+      "2": "1908",
+      "3": "1912",
+      "4": "1920"
+    },
+    "answer": "3"
+  },
+  "117": {
+    "question": "¿CUÁL ES LA CAPITAL DE NICARAGUA?",
+    "options": {
+      "1": "MANAGUA",
+      "2": "SAN JUAN",
+      "3": "SAN SALVADOR",
+      "4": "TEGUCIGALPA"
+    },
+    "answer": "1"
+  },
+  "118": {
+    "question": "¿DE QUÉ PAÍS ES EL EX FUTBOLISTA APODADO 'EL PIBE' VALDERRAMA?",
+    "options": {
+      "1": "COLOMBIA",
+      "2": "ARGENTINA",
+      "3": "BRASIL",
+      "4": "URUGUAY"
+    },
+    "answer": "1"
+  },
+  "119": {
+    "question": "¿CÓMO SE LLAMA EL INSTRUMENTO ACÚSTICO USADO EN MEDICINA PARA OÍR LOS SONIDOS INTERNOS DEL CUERPO?",
+    "options": {
+      "1": "ESTETOSCOPIO",
+      "2": "TERMÓMETRO",
+      "3": "BÁSCULA",
+      "4": "ESFIGMOMANÓMETRO"
+    },
+    "answer": "1"
+  },
+  "120": {
+    "question": "¿EN QUÉ PAÍS SE REALIZAN Y ENTREGAN LOS PREMIOS GOYA?",
+    "options": {
+      "1": "ESPAÑA",
+      "2": "MÉXICO",
+      "3": "ARGENTINA",
+      "4": "FRANCIA"
+    },
+    "answer": "1"
+  },
+  "121": {
+    "question": "¿DE QUÉ COLOR ES EL PELO DEL FAMOSO MUÑECO CHUCKY?",
+    "options": {
+      "1": "ROJO",
+      "2": "AZUL",
+      "3": "VERDE",
+      "4": "NARANJA"
+    },
+    "answer": "4"
+  },
+  "122": {
+    "question": "¿A QUÉ PUEBLO SE LLAMABA 'HELENOS'?",
+    "options": {
+      "1": "GRIEGOS",
+      "2": "ROMANOS",
+      "3": "EGIPCIOS",
+      "4": "PERSAS"
+    },
+    "answer": "1"
+  },
+  "123": {
+    "question": "¿A QUÉ SELECCIÓN LE GANÓ ARGENTINA LA FINAL DEL MUNDIAL DE MÉXICO 86?",
+    "options": {
+      "1": "ALEMANIA",
+      "2": "BRASIL",
+      "3": "ITALIA",
+      "4": "FRANCIA"
+    },
+    "answer": "1"
+  },
+  "124": {
+    "question": "¿CÓMO SE LLAMAN LOS PERÍODOS EN LOS QUE SE DIVIDE UN PARTIDO DE BÁSQUET?",
+    "options": {
+      "1": "TIEMPOS",
+      "2": "PERIODOS",
+      "3": "SETS",
+      "4": "CUARTOS"
+    },
+    "answer": "4"
+  },
+  "125": {
+    "question": "¿QUÉ PRESIDENTE FIRMÓ EL DECRETO QUE LE OTORGÓ A TODAS LAS MUJERES DEL PAÍS EL DERECHO AL VOTO?",
+    "options": {
+      "1": "JUAN DOMINGO PERÓN",
+      "2": "HIPÓLITO YRIGOYEN",
+      "3": "RAÚL ALFONSÍN",
+      "4": "ARTURO ILLIA"
+    },
+    "answer": "2"
+  },
+  "126": {
+    "question": "¿CUÁNDO SE DICE QUE ALGUIEN ES COTERRÁNEO?",
+    "options": {
+      "1": "CUANDO ES DEL MISMO PAÍS",
+      "2": "CUANDO ES DE LA MISMA CIUDAD",
+      "3": "CUANDO ES DE LA MISMA PROVINCIA",
+      "4": "CUANDO ES DEL MISMO BARRIO"
+    },
+    "answer": "1"
+  },
+  "127": {
+    "question": "¿EN QUÉ MES DE 2001 SE ANUNCIÓ EL LLAMADO 'CORRALITO' EN LA ARGENTINA?",
+    "options": {
+      "1": "ENERO",
+      "2": "MARZO",
+      "3": "SEPTIEMBRE",
+      "4": "DICIEMBRE"
+    },
+    "answer": "4"
+  },
+  "128": {
+    "question": "¿QUIÉN ERA EL CANTANTE Y LÍDER DE LA BANDA 'PESCADO RABIOSO'?",
+    "options": {
+      "1": "LUIS ALBERTO SPINETTA",
+      "2": "GUSTAVO CERATI",
+      "3": "CHARLY GARCÍA",
+      "4": "FITO PÁEZ"
+    },
+    "answer": "1"
+  },
+  "129": {
+    "question": "¿EN QUÉ PROVINCIA NACIÓ ALBERTO OLMEDO?",
+    "options": {
+      "1": "BUENOS AIRES",
+      "2": "CÓRDOBA",
+      "3": "SANTA FE",
+      "4": "MENDOZA"
+    },
+    "answer": "3"
+  },
+  "130": {
+    "question": "¿QUÉ PERSONAJE TELEVISIVO DECÍA 'NO CONTABAN CON MI ASTUCIA'?",
+    "options": {
+      "1": "EL CHAPULÍN COLORADO",
+      "2": "EL CHAVO DEL OCHO",
+      "3": "EL CHOMBO",
+      "4": "EL CHAPARRÓN BONAPARTE"
+    },
+    "answer": "1"
+  },
+  "131": {
+    "question": "¿QUÉ ACTORES ARGENTINOS PROTAGONIZABAN LA SERIE '099 CENTRAL'?",
+    "options": {
+      "1": "FACUNDO ARANA Y NANCY DUPLÁA",
+      "2": "ADRIÁN SUAR Y GRISelda siciliani",
+      "3": "LUIS BRANDONI Y MIMI ARDU",
+      "4": "MIKE AMIGORENA Y JAZMÍN STUART"
+    },
+    "answer": "1"
+  },
+  "132": {
+    "question": "¿DÓNDE SE ENCUENTRAN LOS VOLCANES CHAITÉN, PUYEHUE Y LANÍN?",
+    "options": {
+      "1": "CORDILLERA DE LOS ANDES",
+      "2": "SIERRA NEVADA",
+      "3": "MONTAÑAS ROCOSAS",
+      "4": "CERROS DE MÉXICO"
+    },
+    "answer": "1"
+  },
+  "133": {
+    "question": "¿DE QUÉ MATERIAL METÁLICO ESTÁN HECHAS LAS LATAS DE GASEOSAS?",
+    "options": {
+      "1": "ALUMINIO",
+      "2": "ACERO INOXIDABLE",
+      "3": "COBRE",
+      "4": "HIERRO"
+    },
+    "answer": "1"
+  },
+  "134": {
+    "question": "¿CÓMO SE DENOMINA AL PAPEL UTILIZADO PARA IMPRIMIR BILLETES?",
+    "options": {
+      "1": "PAPEL MONEDA",
+      "2": "PAPEL HIGIÉNICO",
+      "3": "PAPEL PERIÓDICO",
+      "4": "PAPEL DE REGALO"
+    },
+    "answer": "1"
+  },
+  "135": {
+    "question": "¿QUIÉN ES EL AUTOR DEL LIBRO TITULADO 'OPERACIÓN MASACRE'?",
+    "options": {
+      "1": "RODOLFO WALSH",
+      "2": "JORGE LUIS BORGES",
+      "3": "GABRIEL GARCÍA MÁRQUEZ",
+      "4": "JULIO CORTÁZAR"
+    },
+    "answer": "1"
+  },
+  "136": {
+    "question": "¿CÓMO SE LLAMA LA CIUDAD FICTICIA DONDE VIVE CLARK KENT?",
+    "options": {
+      "1": "METRÓPOLIS",
+      "2": "GOTHAM CITY",
+      "3": "CENTRAL CITY",
+      "4": "STAR CITY"
+    },
+    "answer": "1"
+  },
+  "137": {
+    "question": "¿CUÁL DE ESTAS CANCIONES PERTENECE AL TRÍO DE PAYASOS GABY, FOFÓ Y MILIKI?",
+    "options": {
+      "1": "LA GALLINA TURULECA",
+      "2": "LOS POLLITOS DICEN",
+      "3": "EL PATITO JUAN",
+      "4": "LA VACA LECHERA"
+    },
+    "answer": "1"
+  },
+  "138": {
+    "question": "¿DESDE QUÉ PUERTO ZARPÓ EL TITANIC EN SU VIAJE INAUGURAL?",
+    "options": {
+      "1": "PUERTO DE SOUTHAMPTON",
+      "2": "PUERTO DE LIVERPOOL",
+      "3": "PUERTO DE NUEVA YORK",
+      "4": "PUERTO DE BREST"
+    },
+    "answer": "1"
+  },
+  "139": {
+    "question": "¿LA CAPITAL DE QUÉ PAÍS AFRICANO ES DAKAR?",
+    "options": {
+      "1": "SENEGAL",
+      "2": "KENIA",
+      "3": "EGIPTO",
+      "4": "NIGERIA"
+    },
+    "answer": "1"
+  },
+  "140": {
+    "question": "¿QUÉ ANIMAL SE ENCUENTRA EN EL NUEVO BILLETE DE 50 PESOS ARGENTINOS?",
+    "options": {
+      "1": "CÓNDOR ANDINO",
+      "2": "GUANACO",
+      "3": "YAGUARETÉ",
+      "4": "BAHIAMITA"
+    },
+    "answer": "1"
+  },
+  "141": {
+    "question": "SEGÚN CUENTA LA TRADICIÓN, ¿EN QUÉ PAÍS SE INVENTÓ LA SALSA GOLF?",
+    "options": {
+      "1": "ARGENTINA",
+      "2": "ITALIA",
+      "3": "MÉXICO",
+      "4": "ESPAÑA"
+    },
+    "answer": "1"
+  },
+  "142": {
+    "question": "¿QUÉ ROEDOR SEMIACUÁTICO ES RECONOCIDO POR ARMAR DIQUES?",
+    "options": {
+      "1": "CASTOR",
+      "2": "NUTRIA",
+      "3": "CONEJO",
+      "4": "ARDILLA"
+    },
+    "answer": "1"
+  },
+  "143": {
+    "question": "¿EN QUÉ LOCALIDAD DE LA PROVINCIA DE BUENOS AIRES SE UNEN EL MAR ARGENTINO CON EL RÍO DE LA PLATA?",
+    "options": {
+      "1": "SAMBOROMBÓN",
+      "2": "MAR DEL PLATA",
+      "3": "SAN CLEMENTE DEL TUYÚ",
+      "4": "PINAMAR"
+    },
+    "answer": "1"
+  },
+  "144": {
+    "question": "SEGÚN EL DICHO POPULAR, ¿CUÁNTAS VIDAS TIENE EL GATO?",
+    "options": {
+      "1": "SIETE",
+      "2": "NUEVE",
+      "3": "DOS",
+      "4": "CINCO"
+    },
+    "answer": "1"
+  },
+  "145": {
+    "question": "¿EN QUÉ CONTINENTE SE ENCUENTRA NEPAL?",
+    "options": {
+      "1": "ASIA",
+      "2": "ÁFRICA",
+      "3": "AMÉRICA",
+      "4": "EUROPA"
+    },
+    "answer": "1"
+  },
+  "146": {
+    "question": "¿EN QUÉ PAÍS NACIÓ EL FAMOSO ESCRITOR PAULO COELHO?",
+    "options": {
+      "1": "BRASIL",
+      "2": "FRANCIA",
+      "3": "ITALIA",
+      "4": "ESPAÑA"
+    },
+    "answer": "1"
+  },
+  "147": {
+    "question": "SEGÚN LA QUINIELA, ¿QUÉ SIGNIFICA EL NÚMERO 99?",
+    "options": {
+      "1": "LOS HERMANOS",
+      "2": "EL DINERO",
+      "3": "LA SALUD",
+      "4": "EL AMOR"
+    },
+    "answer": "1"
+  },
+  "148": {
+    "question": "¿EN QUÉ CIUDAD EUROPEA SE ENCUENTRA EL MUSEO VAN GOGH?",
+    "options": {
+      "1": "AMSTERDAM",
+      "2": "PARÍS",
+      "3": "LONDRES",
+      "4": "ROMA"
+    },
+    "answer": "1"
+  },
+  "149": {
+    "question": "¿CUÁL ES EL NOMBRE OFICIAL DE MÉXICO?",
+    "options": {
+      "1": "ESTADOS UNIDOS MEXICANOS",
+      "2": "REPÚBLICA DE MÉXICO",
+      "3": "FEDERACIÓN MEXICANA",
+      "4": "UNIÓN MEXICANA"
+    },
+    "answer": "1"
+  },
+  "150": {
+    "question": "¿CON CUÁL DE LAS SIGUIENTES PROVINCIAS LIMITA LA PROVINCIA DE BUENOS AIRES?",
+    "options": {
+      "1": "RÍO NEGRO",
+      "2": "CATAMARCA",
+      "3": "CHACO",
+      "4": "SANTA CRUZ"
+    },
+    "answer": "1"
+  },
+  "151": {
+    "question": "¿EN QUÉ PROVINCIA SE ENCUENTRA EL PARQUE NACIONAL LANÍN?",
+    "options": {
+      "1": "NEUQUÉN",
+      "2": "SANTA FE",
+      "3": "ENTRE RÍOS",
+      "4": "MENDOZA"
+    },
+    "answer": "1"
+  },
+  "152": {
+    "question": "¿QUÉ EQUIPO DE FÚTBOL DE LA PRIMERA DIVISIÓN JUEGA DE LOCAL EN EL ESTADIO 'JOSÉ AMALFITANI'?",
+    "options": {
+      "1": "VÉLEZ SARSFIELD",
+      "2": "RIVER PLATE",
+      "3": "BOCA JUNIORS",
+      "4": "INDEPENDIENTE"
+    },
+    "answer": "1"
+  },
+  "153": {
+    "question": "¿EN QUÉ PROVINCIA ARGENTINA SE ENCUENTRA TAFÍ DEL VALLE?",
+    "options": {
+      "1": "TUCUMÁN",
+      "2": "MENDOZA",
+      "3": "SANTA FE",
+      "4": "SALTA"
+    },
+    "answer": "1"
+  },
+  "154": {
+    "question": "¿PARA QUÉ SE USA PRINCIPALMENTE UN DIAPASÓN?",
+    "options": {
+      "1": "PARA AFINAR INSTRUMENTOS MUSICALES",
+      "2": "PARA MEDIR LA TEMPERATURA",
+      "3": "PARA CORTAR MADERA",
+      "4": "PARA HACER EJERCICIOS DE RESPIRACIÓN"
+    },
+    "answer": "1"
+  },
+  "155": {
+    "question": "¿QUÉ SE LE INFLAMA A UNA PERSONA QUE SUFRE DE CISTITIS?",
+    "options": {
+      "1": "LA VEJIGA",
+      "2": "LOS RIÑONES",
+      "3": "EL ESTÓMAGO",
+      "4": "LOS PULMONES"
+    },
+    "answer": "1"
+  },
+  "156": {
+    "question": "¿A QUÉ SE CONOCE CON EL NOMBRE 'CHANCHO VA'?",
+    "options": {
+      "1": "UN JUEGO DE CARTAS",
+      "2": "UNA COMIDA TÍPICA",
+      "3": "UN INSTRUMENTO MUSICAL",
+      "4": "UN DEPORTE ACUÁTICO"
+    },
+    "answer": "1"
+  },
+  "157": {
+    "question": "¿QUÉ ZONA DEL CUERPO SE VE AFECTADA SI UNO PADECE DE HERNIA DE DISCO?",
+    "options": {
+      "1": "LA COLUMNA VERTEBRAL",
+      "2": "LAS RODILLAS",
+      "3": "LOS BRAZOS",
+      "4": "EL ABDOMEN"
+    },
+    "answer": "1"
+  },
+  "158": {
+    "question": "SEGÚN EL DICHO POPULAR, ¿UNO ESTÁ PERDIDO COMO QUIÉN EN LA NEBLINA?",
+    "options": {
+      "1": "COMO UN TURCO",
+      "2": "COMO UN PERRO",
+      "3": "COMO UN GATO",
+      "4": "COMO UN PÁJARO"
+    },
+    "answer": "1"
+  },
+  "159": {
+    "question": "¿SOBRE QUÉ SUPERFICIE CAEN LOS DEPORTISTAS EN UNA COMPETENCIA OFICIAL DE SALTO EN LARGO?",
+    "options": {
+      "1": "ARENA",
+      "2": "HIERBA",
+      "3": "CÉSPED SINTÉTICO",
+      "4": "TIERRA"
+    },
+    "answer": "1"
+  },
+  "160": {
+    "question": "EN LA FAMOSA 'CANCIÓN PARA TOMAR EL TÉ' DE MARÍA ELENA WALSH, ¿CON QUÉ ABRIGAN A LA LECHE?",
+    "options": {
+      "1": "CON UN SOBRETODO",
+      "2": "CON UNA BUFANDA",
+      "3": "CON UN SOMBRERO",
+      "4": "CON UNA MANTA"
+    },
+    "answer": "1"
+  },
+  "161": {
+    "question": "¿A QUÉ HACE REFERENCIA EL TÉRMINO 'A ROLETE'?",
+    "options": {
+      "1": "A MUCHA CANTIDAD",
+      "2": "A POCO VOLUMEN",
+      "3": "A UNA GRAN DISTANCIA",
+      "4": "A UNA VELOCIDAD MUY ALTA"
+    },
+    "answer": "1"
+  },
+  "162": {
+    "question": "¿QUÉ ACTOR PROTAGONIZÓ JUNTO A CELESTE CID LA TELENOVELA 'RESISTIRÉ'?",
+    "options": {
+      "1": "PABLO ECHARRI",
+      "2": "GASTÓN PAULS",
+      "3": "JUAN GIL NAVARRO",
+      "4": "LUCIANO CASTRO"
+    },
+    "answer": "1"
+  },
+  "163": {
+    "question": "¿QUÉ ES EL BOTULISMO?",
+    "options": {
+      "1": "UNA INTOXICACIÓN CAUSADA POR LOS ALIMENTOS",
+      "2": "UNA ENFERMEDAD CARDIOVASCULAR",
+      "3": "UN TIPO DE CÁNCER",
+      "4": "UNA INFECCIÓN RESPIRATORIA"
+    },
+    "answer": "1"
+  },
+  "164": {
+    "question": "¿A QUÉ HACE REFERENCIA EL TÉRMINO 'BREXIT'?",
+    "options": {
+      "1": "LA SALIDA DEL REINO UNIDO DE LA UNIÓN EUROPEA",
+      "2": "UNA CELEBRACIÓN FESTIVA",
+      "3": "UNA NUEVA TENDENCIA DE MODA",
+      "4": "UN EVENTO DEPORTIVO INTERNACIONAL"
+    },
+    "answer": "1"
+  },
+  "165": {
+    "question": "¿CÓMO SE LLAMA EL MATERIAL ADHESIVO CASERO QUE SE PREPARA CON AGUA Y HARINA?",
+    "options": {
+      "1": "ENGRUDO",
+      "2": "PEGAMENTO UNIVERSAL",
+      "3": "CINTA ADHESIVA",
+      "4": "RESINA"
+    },
+    "answer": "1"
+  },
+  "166": {
+    "question": "¿EN QUÉ CONTINENTE SE ENCUENTRA BELICE?",
+    "options": {
+      "1": "AMÉRICA",
+      "2": "EUROPA",
+      "3": "ÁFRICA",
+      "4": "ASIA"
+    },
+    "answer": "1"
+  },
+  "167": {
+    "question": "¿A QUÉ PAÍS PERTENECE HONG KONG?",
+    "options": {
+      "1": "CHINA",
+      "2": "JAPÓN",
+      "3": "COREA DEL SUR",
+      "4": "TAILANDIA"
+    },
+    "answer": "1"
+  },
+  "168": {
+    "question": "¿CON QUÉ OTRO NOMBRE SE HACE REFERENCIA A LA TEORÍA DEL CAOS?",
+    "options": {
+      "1": "EFECTO MARIPOSA",
+      "2": "LEY DE LA GRAVEDAD",
+      "3": "TEORÍA DE LA RELATIVIDAD",
+      "4": "PRINCIPIO DE INCERTIDUMBRE"
+    },
+    "answer": "1"
+  },
+  "169": {
+    "question": "¿QUIÉN ERA EL PRESIDENTE ARGENTINO CUANDO SE PINTÓ POR PRIMERA VEZ LA CASA DE GOBIERNO DE ROSA?",
+    "options": {
+      "1": "DOMINGO FAUSTINO SARMIENTO",
+      "2": "JUAN DOMINGO PERÓN",
+      "3": "HIPÓLITO YRIGOYEN",
+      "4": "CARLOS MENEM"
+    },
+    "answer": "1"
+  },
+  "170": {
+    "question": "SEGÚN EL REFRÁN, A PALABRAS NECIAS, OIDOS... ¿CÓMO?",
+    "options": {
+      "1": "SORDOS",
+      "2": "CIEGOS",
+      "3": "SORDOS Y CIEGOS",
+      "4": "SORDOS Y MUDOS"
+    },
+    "answer": "1"
+  },
+  "171": {
+    "question": "¿A QUÉ MOMENTO DEL DÍA HACE REFERENCIA LA PALABRA MATUTINO?",
+    "options": {
+      "1": "LA MAÑANA",
+      "2": "LA TARDE",
+      "3": "LA NOCHE",
+      "4": "LA MEDIANOCHE"
+    },
+    "answer": "1"
+  },
+  "172": {
+    "question": "¿QUÉ ES LA ACROFOBIA?",
+    "options": {
+      "1": "MIEDO A LAS ALTURAS",
+      "2": "MIEDO A LOS ESPACIOS CERRADOS",
+      "3": "MIEDO A LOS INSECTOS",
+      "4": "MIEDO AL AGUA"
+    },
+    "answer": "1"
+  },
+  "173": {
+    "question": "¿LA FALLA DE QUÉ ÓRGANO BUSCA REEMPLAZAR EL PROCESO DE DIÁLISIS?",
+    "options": {
+      "1": "RIÑÓN",
+      "2": "HÍGADO",
+      "3": "PULMÓN",
+      "4": "CORAZÓN"
+    },
+    "answer": "1"
+  },
+  "174": {
+    "question": "¿QUÉ MIDE UN AERÓMETRO?",
+    "options": {
+      "1": "LA DENSIDAD DEL AIRE",
+      "2": "LA VELOCIDAD DEL VIENTO",
+      "3": "LA PRESIÓN ATMOSFÉRICA",
+      "4": "LA HUMEDAD DEL AIRE"
+    },
+    "answer": "1"
+  },
+  "175": {
+    "question": "¿EN QUÉ DEPORTE SE DESTACÓ MARCOS 'EL CHINO' MAIDANA?",
+    "options": {
+      "1": "BOXEO",
+      "2": "TENIS",
+      "3": "FÚTBOL",
+      "4": "GOLF"
+    },
+    "answer": "1"
+  },
+  "176": {
+    "question": "¿QUÉ CIUDAD ARGENTINA ES FAMOSA POR EL AVISTAMIENTO DE BALLENAS?",
+    "options": {
+      "1": "PUERTO MADRYN",
+      "2": "MAR DEL PLATA",
+      "3": "USHUAIA",
+      "4": "BARILOCHE"
+    },
+    "answer": "1"
+  }
+}
