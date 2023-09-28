@@ -1,0 +1,9 @@
+{
+  "hosting": [
+    {
+      "target": "saladejuegosAngular16",
+      "source": ".",
+      "frameworksBackend": {}
+    }
+  ]
+}

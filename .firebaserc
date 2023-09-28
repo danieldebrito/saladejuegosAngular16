@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "saladejuegos-f5726": {
+      "hosting": {
+        "saladejuegosAngular16": [
+          "saladejuegos-f5726"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "saladejuegos-f5726"
+  }
+}
