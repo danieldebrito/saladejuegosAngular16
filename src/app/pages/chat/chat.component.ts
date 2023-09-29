@@ -31,6 +31,9 @@ export class ChatComponent {
     this.afAuth.authState.subscribe(user => {
       if (user) {
         this.userLogged.uid = user.uid;
+        this.messenger.displayName = user.displayName;
+        console.log(user);
+
       } else {
         this.userLogged.uid = '';
       }
@@ -45,7 +48,7 @@ export class ChatComponent {
   public saveMensaje(msg: string){
     this.messenger.fecha = new Date().getTime();
     this.messenger.mensaje = msg;
-    this.messenger.displayName = 'displayName' // this.userLogged.displayName;
+    //this.messenger.displayName = '';//this.userLogged.displayName; // this.userLogged.displayName;
     this.messenger.uid = this.userLogged.uid;
 
     this.chatSv.addItem(this.messenger);
