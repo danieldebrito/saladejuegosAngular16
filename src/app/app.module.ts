@@ -16,7 +16,6 @@ import { FIREBASE_OPTIONS } from '@angular/fire/compat';
 import { environment } from '../environments/environment';
 import { LayoutModule } from './layout/layout.module';
 
-
 @NgModule({
   declarations: [
     AppComponent,
