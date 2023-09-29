@@ -8,3 +8,18 @@
     font-family: 'Orbitron';
     src: url('./assets/fonts/Orbitron/Orbitron-VariableFont_wght.ttf');
 }
+
+@font-face {
+    font-family: 'Rajdhani';
+    src: url('./assets/fonts/Rajdhani/Rajdhani-Regular.ttf');
+}
+
+.bg-red {
+    background-color: #980c0c;
+}
+
+.display-5 {
+    font-family: "Rajdhani", "arial", sans-serif;
+    font-size: 40px;
+    color: aliceblue;
+}
