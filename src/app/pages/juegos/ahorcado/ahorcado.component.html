@@ -1,1 +1,74 @@
-<p>ahorcado works!</p>
+<div class="container">
+    <div class="row">
+        <div class="row">
+            <div *ngIf="cantIntentos == 5" class="col-sm-6">
+                <img src="assets/juegos/ahorcado/1.jpg" alt="ahorcado_imagen_1" srcset="">
+            </div>
+            <div *ngIf="cantIntentos == 4" class="col-sm-6">
+                <img src="assets/juegos/ahorcado/2.jpg" alt="ahorcado_imagen_1" srcset="">
+            </div>
+            <div *ngIf="cantIntentos == 3" class="col-sm-6">
+                <img src="assets/juegos/ahorcado/3.jpg" alt="ahorcado_imagen_1" srcset="">
+            </div>
+            <div *ngIf="cantIntentos == 2" class="col-sm-6">
+                <img src="assets/juegos/ahorcado/4.jpg" alt="ahorcado_imagen_1" srcset="">
+            </div>
+            <div *ngIf="cantIntentos == 1" class="col-sm-6">
+                <img src="assets/juegos/ahorcado/5.jpg" alt="ahorcado_imagen_1" srcset="">
+            </div>
+            <div *ngIf="cantIntentos == 0" class="col-sm-6">
+                <img src="assets/juegos/ahorcado/6.jpg" alt="ahorcado_imagen_1" srcset="">
+            </div>
+            <div class="col-sm-6">
+                <div *ngIf="cantIntentos == 0" class="mt-5 col-sm-12">
+                    <h1>Perdiste!! la palabra era : {{ palabra }}</h1>
+                </div>
+                <div  *ngIf="cantIntentos != 0" class="mt-5 col-sm-12">
+                    <p class="fs-1">{{ palabraTipeada }}</p>
+                </div>
+                <div  *ngIf="esGanador" class="mt-5 col-sm-12">
+                    <p class="fs-1">Ganaste !!!!! </p>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12">
+            <h1> Te quedan {{ cantIntentos }} Intentos</h1>
+        </div>
+        <div class="teclado col-sm-9 mt-3 p-3">
+            <div class="row mt-1">
+                <div class="col"><a class="myButton" (click)="LetraTipeada('Q')">Q</a></div>
+                <div class="col"><a class="myButton" (click)="LetraTipeada('W')">W</a></div>
+                <div class="col"><a class="myButton" (click)="LetraTipeada('E')">E</a></div>
+                <div class="col"><a class="myButton" (click)="LetraTipeada('R')">R</a></div>
+                <div class="col"><a class="myButton" (click)="LetraTipeada('T')">T</a></div>
+                <div class="col"><a class="myButton" (click)="LetraTipeada('Y')">Y</a></div>
+                <div class="col"><a class="myButton" (click)="LetraTipeada('U')">U</a></div>
+                <div class="col"><a class="myButton" (click)="LetraTipeada('I')">I</a></div>
+                <div class="col"><a class="myButton" (click)="LetraTipeada('O')">O</a></div>
+                <div class="col"><a class="myButton" (click)="LetraTipeada('P')">P</a></div>
+            </div>
+            <div class="row mt-1">
+                <div class="col"> <a class="myButton" (click)="LetraTipeada('A')">A</a></div>
+                <div class="col"> <a class="myButton" (click)="LetraTipeada('S')">S</a></div>
+                <div class="col"> <a class="myButton" (click)="LetraTipeada('D')">D</a></div>
+                <div class="col"> <a class="myButton" (click)="LetraTipeada('F')">F</a></div>
+                <div class="col"> <a class="myButton" (click)="LetraTipeada('G')">G</a></div>
+                <div class="col"> <a class="myButton" (click)="LetraTipeada('H')">H</a></div>
+                <div class="col"> <a class="myButton" (click)="LetraTipeada('J')">J</a></div>
+                <div class="col"> <a class="myButton" (click)="LetraTipeada('K')">K</a></div>
+                <div class="col"> <a class="myButton" (click)="LetraTipeada('L')">L</a></div>
+                <div class="col"> <a class="myButton" (click)="LetraTipeada('Ñ')">Ñ</a></div>
+            </div>
+            <div class="row mt-1">
+                <div class="col"> <a class="myButton" (click)="LetraTipeada('Z')">Z</a></div>
+                <div class="col"> <a class="myButton" (click)="LetraTipeada('X')">X</a></div>
+                <div class="col"> <a class="myButton" (click)="LetraTipeada('C')">C</a></div>
+                <div class="col"> <a class="myButton" (click)="LetraTipeada('V')">V</a></div>
+                <div class="col"> <a class="myButton" (click)="LetraTipeada('B')">B</a></div>
+                <div class="col"> <a class="myButton" (click)="LetraTipeada('N')">N</a></div>
+                <div class="col"> <a class="myButton" (click)="LetraTipeada('M')">M</a></div>
+                <div class="col"> <a class="myButton" (click)="ResetJuego()">REINICIAR</a></div>
+            </div>
+        </div>
+    </div>
+</div>

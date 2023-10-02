@@ -1,1 +1,28 @@
-<p>preguntados works!</p>
+<div class="container">
+    <div class="row">
+        <div class="col-sm-12">
+            <div class="mt-4 card">
+                <div class="card-body">
+                    {{ pregunta.pregunta }}
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-4" *ngFor="let item of respuestas">
+                <div class="mt-4 card" (click)="checkrespuesta(item)">
+                    <div class="card-body">
+                        {{ item }}
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-sm-6">
+            <h1>{{ mensaje }}</h1>
+        </div>
+        <div class="col-sm-6">
+            <div class="mt-5 col-sm-12"><a class="myButton" (click)="obtenerPreguntaAleatoriaSinRepetir()" >Siguiente Pregunta</a></div>
+        </div>
+
+    </div>
+</div>

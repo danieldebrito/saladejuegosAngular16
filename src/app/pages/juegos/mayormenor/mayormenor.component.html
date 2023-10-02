@@ -1,1 +1,17 @@
-<p>mayormenor works!</p>
+<div class="mt-5 container">
+    <div class="row">
+        <div class="col-sm-4">
+            <img src="/assets/juegos/mayormenor/asart-naipes-dorso-minimalart.png" alt="" srcset="">
+        </div>
+        <div class="col-sm-4">
+            <img src="{{cartaAleatoria.url}}" alt="" srcset="">
+        </div>
+        <div class="col-sm-4">
+            <div class="mt-5 row">
+                <div class="mt-5 col-sm-12"><a class="myButton" (click)="checkJugada('mayor')" >MAYOR</a></div>
+                <div class="mt-5 col-sm-12"><a class="myButton" (click)="checkJugada('menor')">MENOR</a></div>
+                <h1>{{ mensaje }}</h1>
+            </div>
+        </div>
+    </div>
+</div>
