@@ -17,8 +17,6 @@ export class PreguntadosdosComponent {
 
 
   ngOnInit(){
-
-    /*
     this.simpsonsSv.get().subscribe(res => {
       if (res) {
         this.allItems = res;
@@ -27,7 +25,5 @@ export class PreguntadosdosComponent {
         console.error('Service response is null or undefined.');
       }
     });
-    */
   }
-
 }
