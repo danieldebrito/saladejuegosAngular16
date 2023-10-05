@@ -1,9 +1,10 @@
 {
-  "hosting": [
-    {
-      "target": "saladejuegosAngular16",
-      "source": ".",
-      "frameworksBackend": {}
-    }
-  ]
+  "hosting": {
+    "public": "dist/saladejuegos-angular16",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
 }
