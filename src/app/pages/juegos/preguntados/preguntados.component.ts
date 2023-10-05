@@ -12,16 +12,13 @@ export class PreguntadosComponent implements OnInit {
 
   public preguntas: Pregunta[] = [];
   public pregunta: Pregunta = {};
-
   public respuestas: string[] = [];
-
   public mensaje = '';
 
   constructor(private quizSv: QuizService) { }
 
 
   public obtenerPreguntaAleatoriaSinRepetir() {
-
     this.mensaje = '';
 
     const preguntasTemp = [...this.preguntas];
@@ -37,7 +34,6 @@ export class PreguntadosComponent implements OnInit {
     const indiceAleatorio = Math.floor(Math.random() * preguntasTemp.length);
     // Extraer la pregunta aleatoria del array temporal
     this.pregunta = preguntasTemp.splice(indiceAleatorio, 1)[0];
-
 
     const resp = ([
       this.pregunta.correcta,
@@ -69,7 +65,6 @@ export class PreguntadosComponent implements OnInit {
     }
   }
 
-
   public getPreguntas() {
     this.quizSv.get().subscribe(res => {
       this.preguntas = res;
@@ -81,5 +76,4 @@ export class PreguntadosComponent implements OnInit {
   ngOnInit(): void {
     this.getPreguntas();
   }
-
 }

@@ -1,1 +1,41 @@
-<p>preguntadosdos works!</p>
+<div class="mt-4">
+    <div class="container">
+
+        <div *ngIf="!iniciarJuego">
+            <button class="myButton" (click)="cargarTerna()">Jugar</button>
+        </div>
+    
+        <div *ngIf="iniciarJuego">
+            <div class="row">
+                <div class="col-sm-3"></div>
+                <div class="col-sm-6 center">
+                    <div class="card" style="width:18rem;">
+                        <img src="{{ personajeCorrecto.Imagen }}" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <!--
+                            <h5 class="card-title"> {{ personajeCorrecto.Nombre }} </h5>
+                        -->
+                            <h6 class="card-subtitle mb-2 text-muted "> {{ personajeCorrecto.Ocupacion }} </h6>
+                            <!--
+                            <p class="card-text">{{ personajeCorrecto.Historia }}</p>
+                        -->
+                            b5
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-3">
+                    {{ mensaje }}
+                </div>
+            </div>
+            <div class="row mt-4">
+                <div class="col-4"> <button class="myButton" (click)="checkJugada(terna[0])">{{ terna[0].Nombre }}</button>
+                </div>
+                <div class="col-4"> <button class="myButton" (click)="checkJugada(terna[1])">{{ terna[1].Nombre }}</button>
+                </div>
+                <div class="col-4"> <button class="myButton" (click)="checkJugada(terna[2])">{{ terna[2].Nombre}}</button>
+                </div>
+            </div>
+        </div>
+        
+    </div>
+</div>

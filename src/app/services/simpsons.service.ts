@@ -13,7 +13,6 @@ export class SimpsonsService {
   constructor(private http: HttpClient) { }
 
   get(): Observable<any> {
-    return this.http.get(`${this.API_URI}/personajes`).pipe(
-      map((response: any) => response));
+    return this.http.get(`${this.API_URI}/personajes?limit=630`);
   }
 }
