@@ -2,7 +2,6 @@
     <div class="container bg padding simpsons">
 
         <div *ngIf="!iniciarJuego" class="padding">
-
             <div class="p-5 mb-4  rounded-3 ">
                 <div class="container-fluid py-5">
                     <h1>¿Como se llama el Simpson?</h1>
@@ -10,16 +9,16 @@
                     <button class="btn btn-primary btn-lg" type="button" (click)="cargarTerna()">Jugar</button>
                 </div>
             </div>
-
-
         </div>
 
-        <div *ngIf="iniciarJuego">
-            <div class="row padding">
-                <div class="col-sm-3 mt-5"></div>
+        <div *ngIf="iniciarJuego" class="p-5">
+            <div class="row">
+                <div class="col-sm-3"></div>
                 <div class="col-sm-6 center">
+                    <h1>¿Como se llama el Simpson?</h1>
+
                     <div class="card" style="width:18rem;">
-                        <img src="{{ personajeCorrecto.Imagen }}" class="card-img-top" alt="...">
+                        <img src="{{ personajeCorrecto.Imagen }}" class="card-img-top mt-3" alt="...">
                         <div class="card-body">
                             <!--
                             <h5 class="card-title"> {{ personajeCorrecto.Nombre }} </h5>
@@ -35,14 +34,16 @@
                     {{ mensaje }}
                 </div>
             </div>
-            <div class="row mt-4">
-                <div class="col-4"> <button class="myButton" (click)="checkJugada(terna[0])">{{ terna[0].Nombre
+            <div class="row  mt-4">
+                <div class="col-sm-4 p-1"> <button class="btn btn-primary btn-lg" (click)="checkJugada(terna[0])">{{
+                        terna[0].Nombre
                         }}</button>
                 </div>
-                <div class="col-4"> <button class="myButton" (click)="checkJugada(terna[1])">{{ terna[1].Nombre
+                <div class="col-sm-4p-1"> <button class="btn btn-primary btn-lg" (click)="checkJugada(terna[1])">{{
+                        terna[1].Nombre
                         }}</button>
                 </div>
-                <div class="col-4"> <button class="myButton" (click)="checkJugada(terna[2])">{{
+                <div class="col-sm-4 p-1"> <button class="btn btn-primary btn-lg" (click)="checkJugada(terna[2])">{{
                         terna[2].Nombre}}</button>
                 </div>
             </div>
