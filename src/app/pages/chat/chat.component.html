@@ -15,8 +15,8 @@
                                         class="rounded-circle mr-1" alt="Sharon Lessman" width="40" height="40">
                                 </div>
                                 <div class="flex-grow-1 pl-3">
-                                    <strong>Sharon Lessman</strong>
-                                    <div class="text-muted small"><em>Typing...</em></div>
+                                    <strong> {{ userLogged.email }}</strong>
+                                    <!-- <div class="text-muted small"><em>Typing...</em></div> -->
                                 </div>
                             </div>
                         </div>
@@ -31,7 +31,8 @@
                                             <div>
                                                 <img src="https://bootdey.com/img/Content/avatar/avatar1.png"
                                                     class="rounded-circle mr-1" alt="Chris Wood" width="40" height="40">
-                                                <div class="text-muted small text-nowrap mt-2">2:33 am</div>
+                                                <div class="text-muted small text-nowrap mt-2">{{ item.fecha |
+                                                    date:'shortTime' }}</div>
                                             </div>
                                             <div class="flex-shrink-1 bg-light rounded py-2 px-3 mr-3">
                                                 <div class="font-weight-bold mb-1">Tú</div>
@@ -45,7 +46,8 @@
                                                 <img src="https://bootdey.com/img/Content/avatar/avatar3.png"
                                                     class="rounded-circle mr-1" alt="Sharon Lessman" width="40"
                                                     height="40">
-                                                <div class="text-muted small text-nowrap mt-2">2:34 am</div>
+                                                <div class="text-muted small text-nowrap mt-2">{{ item.fecha |
+                                                    date:'shortTime' }}</div>
                                             </div>
                                             <div class="flex-shrink-1 bg-light rounded py-2 px-3 ml-3">
                                                 <div class="font-weight-bold mb-1"> {{ item.displayName }}</div>
@@ -53,7 +55,6 @@
                                             </div>
                                         </div>
                                     </div>
-
                                 </div>
 
                             </div>

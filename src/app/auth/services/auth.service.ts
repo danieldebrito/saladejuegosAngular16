@@ -24,6 +24,7 @@ import { LogUserService } from './log-user.service';
 export class AuthService {
   userData: any; // Save logged in user data
   constructor(
+    private logService: LogUserService,
     /////////////////////////////////////////////////////////////////////////  UNIFICAR
     public afs: Firestore, // Inject Firestore service
     public afsA: AngularFirestore, // Inject Firestore service
@@ -53,6 +54,13 @@ export class AuthService {
         this.SetUserData(result.user);
         this.afAuth.authState.subscribe((user) => {
           if (user) {
+
+            let log: UserLog = {
+              uid: user.uid,
+              fechaIngreso: new Date(),
+            }
+
+            this.logService.addItem(log);
             this.router.navigate(['home']);
           }
         });
