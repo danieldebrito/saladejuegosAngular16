@@ -80,7 +80,7 @@ export class AuthService {
     return this.afAuth.currentUser
       .then((u: any) => u.sendEmailVerification())
       .then(() => {
-        this.router.navigate(['verify-email-address']);
+        this.router.navigate(['verify-email']);
       });
   }
   // Reset Forggot password
@@ -97,6 +97,9 @@ export class AuthService {
   // Returns true when user is looged in and email is verified
   get isLoggedIn(): boolean {
     const user = JSON.parse(localStorage.getItem('user')!);
+
+    console.log(user);
+
     return user !== null && user.emailVerified !== false ? true : false;
   }
   // Sign in with Google

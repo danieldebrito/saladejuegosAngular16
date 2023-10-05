@@ -1,5 +1,7 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
+import { AuthGuard } from 'src/app/auth/guard/auth.guard';
+
 
 const routes: Routes = [
   { path: '', redirectTo: '/home', pathMatch: 'full' },
@@ -18,9 +20,10 @@ const routes: Routes = [
   { path: 'juegos/tragamonedas', loadChildren: () => import('./pages/juegos/tragamonedas/tragamonedas.module').then(m => m.TragamonedasModule) },
   // pages ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
   { path: 'home', loadChildren: () => import('./pages/home/home.module').then(m => m.HomeModule) },
-  { path: 'chat', loadChildren: () => import('./pages/chat/chat.module').then(m => m.ChatModule) },
+  { path: 'chat', loadChildren: () => import('./pages/chat/chat.module').then(m => m.ChatModule), canActivate: [AuthGuard] },
   { path: 'error404', loadChildren: () => import('./pages/error404/error404.module').then(m => m.Error404Module) },
-  { path: 'about', loadChildren: () => import('./pages/about/about.module').then(m => m.AboutModule) }
+  { path: 'about', loadChildren: () => import('./pages/about/about.module').then(m => m.AboutModule) },
+  { path: 'denegado', loadChildren: () => import('./pages/denegado/denegado.module').then(m => m.DenegadoModule) },
 ];
 
 @NgModule({
