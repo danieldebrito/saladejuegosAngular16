@@ -24,6 +24,7 @@ export class AhorcadoComponent {
   public getPalabra() {
     this.palabrasSv.get().subscribe(res => {
       this.palabra = res;
+      console.log(this.palabra);
       this.palabraArray = this.palabra.toString().split('');
     });
   }
