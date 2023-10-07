@@ -20,7 +20,8 @@ export class SignInComponent {
   ) { }
 
   public AutoSignIn(){  /// login de prueba
-    this.loginForm.setValue( { email: 'danieldebrito@outlook.com', password: '123456' });
+    //this.loginForm.setValue( { email: 'danieldebrito@outlook.com', password: '123456' });
+    this.authService.SignIn('danieldebrito@outlook.com', '123456');
   }
 
   ngOnInit() { }
