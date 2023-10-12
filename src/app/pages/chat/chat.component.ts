@@ -3,7 +3,7 @@ import { AngularFireAuth } from '@angular/fire/compat/auth';
 import { Mensaje } from 'src/app/class/mensaje';
 import { User } from 'src/app/auth/models/user';
 import { AuthService } from 'src/app/auth/services/auth.service';
-import { ChatService } from 'src/app/services/chat.service';
+import { ChatService } from 'src/app/services/chat.FIRE.service';
 
 @Component({
   selector: 'app-chat',

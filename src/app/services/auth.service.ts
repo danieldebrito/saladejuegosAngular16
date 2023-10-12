@@ -10,7 +10,7 @@ import { AngularFireAuth } from '@angular/fire/compat/auth';
 import * as auth from 'firebase/auth';
 import { collection, collectionData, doc, docData, Firestore, getDoc, setDoc, updateDoc } from '@angular/fire/firestore';
 import { Observable, throwError } from 'rxjs';
-import { LogUserService } from './log-user.service';
+import { LogUserService } from './log-userFIRE.service';
 
 
 @Injectable({

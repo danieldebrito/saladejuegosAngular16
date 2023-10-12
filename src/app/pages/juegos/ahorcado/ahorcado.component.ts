@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { PalabrasService } from 'src/app/services/palabras.service';
+import { PalabrasService } from 'src/app/services/palabrasHTTP.service';
 
 @Component({
   selector: 'app-ahorcado',

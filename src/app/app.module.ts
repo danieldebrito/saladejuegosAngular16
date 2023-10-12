@@ -14,6 +14,7 @@ import { FIREBASE_OPTIONS } from '@angular/fire/compat';
 //////////////////////////////////////////////////////////////////////////////
 import { environment } from '../environments/environment';
 import { LayoutModule } from './layout/layout.module';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 
 @NgModule({
   declarations: [
@@ -32,6 +33,7 @@ import { LayoutModule } from './layout/layout.module';
     provideStorage(() => getStorage()),
     /////////////////////////////////////////////////////
     LayoutModule,
+    BrowserAnimationsModule,
   ],
   providers: [
     { provide: FIREBASE_OPTIONS, useValue: environment.firebase }
