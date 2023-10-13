@@ -20,7 +20,7 @@ export class ScoresService {
 
   public getItems(): Observable<Score[]> {
     const col = collection(this.firestore, 'Scores');
-    const queryObservable = query(col, orderBy('fecha')); // ordenar por fecha
+    const queryObservable = query(col, orderBy('uid')); // ordenar por fecha
     const observable = collectionData(queryObservable).pipe(
       map(res => {
         return res as Score[];
@@ -61,5 +61,29 @@ export class ScoresService {
     const documento = doc(col, id);
 
     deleteDoc(documento);
+  }
+
+  ////////////////////////////////////////////////////////////////////////////
+
+  public getScoreUsuario(): any {
+
+    let scoreTEMP: Score = {};
+    const user = JSON.parse(localStorage.getItem('user'));
+
+    this.getItems().subscribe( res => {
+
+      if(user){
+        scoreTEMP = res.find(e => e.uid == user.uid);
+        console.log(scoreTEMP);
+        if(scoreTEMP === undefined){
+          scoreTEMP = {};
+          scoreTEMP.uid = user.uid;
+          console.log('create');
+          this.addItem(scoreTEMP);
+        }
+      }
+
+      return scoreTEMP;
+    });
   }
 }
