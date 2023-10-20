@@ -1,12 +1,13 @@
-<div class="mt-4">
+<div class="mt-5">
     <div class="container bg padding simpsons">
 
         <div *ngIf="!iniciarJuego" class="padding">
             <div class="p-5 mb-4  rounded-3 ">
                 <div class="container-fluid py-5">
-                    <h1>¿Como se llama el Simpson?</h1>
-                    <p class="col-md-8 fs-4">Tenes que acertar el nombre del Simpson, demostra que sabes !!.</p>
-                    <button class="btn btn-primary btn-lg" type="button" (click)="cargarTerna()">Jugar</button>
+                    <p>¿Como se llama el Simpson?</p>
+
+                    <p class="col-md-8 fs-4 mt-5">Tenes que acertar el nombre del Simpson, demostra que sabes !!.</p>
+                    <button class="btn btn-primary btn-lg mt-5" type="button" (click)="cargarTerna()">Jugar</button>
                 </div>
             </div>
         </div>
@@ -14,8 +15,8 @@
         <div *ngIf="iniciarJuego" class="p-5">
             <div class="row">
                 <div class="col-sm-3"></div>
-                <div class="col-sm-6 center">
-                    <h1>¿Como se llama el Simpson?</h1>
+                <div class="col-sm-6 center simpsons">
+                    <p class="col-md-8 fs-4">¿Como se llama el Simpson?</p>
 
                     <div class="card" style="width:18rem;">
                         <img src="{{ personajeCorrecto.Imagen }}" class="card-img-top mt-3" alt="...">
